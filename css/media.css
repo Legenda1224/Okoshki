@@ -413,17 +413,7 @@
 
 }
 
-@media screen and (max-width:414px){
-  .flex__btn{
-    padding-top: 0px;
-  }
-  
-  .vid__btn a{
-    font-size: 12px;
-    padding: 10px 35px;
-  }
-  
-}
+
 
 @media screen and (max-width:411px){
     .swiper-slide h4{
@@ -453,6 +443,13 @@
     .zamer__btn{
       margin-top: 50px;
   }
+
+  .vid__btn a{
+    font-size: 16px;
+    padding: 10px 35px;
+  }
+
+
   .profile{
     background-color: #f0f0f0;
     padding: 80px 0px;
